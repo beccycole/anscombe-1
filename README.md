@@ -6,4 +6,3 @@ To run the notebook, you must have [Jupyter](http://jupyter.org/) installed on y
 You can install this using the [Anaconda](https://www.anaconda.com/) Python distribution.
 
 The notebook itself is called `anscombe.ipynb`.
-
